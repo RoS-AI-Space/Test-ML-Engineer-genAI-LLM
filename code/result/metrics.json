@@ -1,0 +1,13 @@
+{
+  "n_clusters": 468,
+  "n_noise": 1,
+  "noise_ratio": 0.0,
+  "silhouette": 0.1783,
+  "avg_intra_similarity": 0.6818,
+  "median_cluster_size": 7.0,
+  "cluster_size_distribution": {
+    "min": 3,
+    "max": 81,
+    "mean": 8.9
+  }
+}
